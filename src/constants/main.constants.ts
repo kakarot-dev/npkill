@@ -17,7 +17,7 @@ export const DEFAULT_CONFIG: IConfig = {
   maxSimultaneousSearch: 6,
   showErrors: false,
   sortBy: '',
-  targetFolder: 'node_modules',
+  targetFolder: 'target',
 };
 
 export const MARGINS = {
